@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'page_evenements.dart'; // Assurez-vous que vous avez importé la page des événements
+import 'page_evenements.dart';
 
 class PageConnexion extends StatefulWidget {
   const PageConnexion({Key? key}) : super(key: key);
